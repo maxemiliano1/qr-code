@@ -2,7 +2,7 @@
 <h2>Linguagens marcação de texto usadas Html,Css</h2><br>
 <h3>Acessando Projeto</h3><br>
 <p>Basta clicar no Link  abaixo, espero que goste.</p>
-<a href="maxemiliano1.github.io/qr-code/" target="_blank">Link Projeto</a>
+<a href="https://maxemiliano1.github.io/qr-code/" target="_blank">Link Projeto</a>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Max-HTML" height="30" width="40"
